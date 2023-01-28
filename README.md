@@ -1,2 +1,2 @@
-# go-placements
+# go-placement
 student database of placements applied
