@@ -1,4 +1,4 @@
-module github.com/siddhuR/go-Library-Management-system
+module github.com/siddhuR/go-Library-Management-system/tree/main
 
 go 1.16
 
