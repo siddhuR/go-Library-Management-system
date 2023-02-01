@@ -1,2 +1,2 @@
-# go-placement
+# go-Library-Management
 student database of placements applied
